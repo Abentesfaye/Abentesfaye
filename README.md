@@ -2,7 +2,8 @@
 [![GitHub commits](https://img.shields.io/github/followers/Abentesfaye?style=social)](https://github.com/Abentesfaye)
 [![GitHub activity](https://img.shields.io/github/commit-activity/w/Abentesfaye/Abentesfaye)](https://github.com/Abentesfaye/Abentesfaye/commits/main)
 ![](https://komarev.com/ghpvc/?username=Abentesfaye&color=blue&style=flat-square&label=Profile+Views)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abentesfaye&layout=compact)](https://github.com/Abentesfaye)
+[![GitHub stars](https://img.shields.io/github/stars/Abentesfaye/Abentesfaye?style=social)](https://github.com/Abentesfaye/Abentesfaye/stargazers)
+
 [![GitHub contributions](https://img.shields.io/github/contributors/Abentesfaye/Abentesfaye)](https://github.com/Abentesfaye/Abentesfaye/graphs/contributors)
 
 # Hello, World! 👋
