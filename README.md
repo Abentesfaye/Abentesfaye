@@ -7,6 +7,6 @@ It's Me, Abenezer, the Confused Coder 😅
 - 🌱 Learning and growing with each line of code
 - 🤝 Open to collaboration and new opportunities
 - 💬 Ask me about my coding journey and projects
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ebenezer-tesfaye-47ab98226/)
 
 Welcome to my GitHub profile! I'm an enthusiastic web developer on a mission to unravel the mysteries of code. Join me as I crack the code conundrum and share my coding adventures. Let's learn, collaborate, and code together! 💪
