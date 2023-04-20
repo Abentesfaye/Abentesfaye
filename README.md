@@ -1,4 +1,5 @@
 ![Teal Futuristic Technology Facebook Cover (1)](https://user-images.githubusercontent.com/105986912/233362148-3875e198-e1b2-42d9-a6de-be8f5f3d2d41.jpg)
+[![GitHub commits](https://img.shields.io/github/followers/Abentesfaye?style=social)](https://github.com/Abentesfaye)
 # Hello, World! 👋
 It's Me, Abenezer, the Confused Coder 😅
  a Passionate Full Stack Web Developer 💻
@@ -26,4 +27,6 @@ Welcome to my GitHub profile! I'm an enthusiastic web developer on a mission to 
 ## Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abentesfaye&layout=compact&theme=dark)](https://github.com/abentesfaye)
 
-[![GitHub commits](https://img.shields.io/github/followers/Abentesfaye?style=social)](https://github.com/Abentesfaye)
+
+
+
