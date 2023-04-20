@@ -1,6 +1,1 @@
--mision oriented
-
-<!---
-Abentesfaye/Abentesfaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Teal Futuristic Technology Facebook Cover](https://user-images.githubusercontent.com/105986912/233361507-05ca10dc-4862-4a0a-a337-2288367d18fc.jpg)
