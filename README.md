@@ -8,6 +8,12 @@ It's Me, Abenezer, the Confused Coder 😅
 - 🌱 Learning and growing with each line of code
 - 📚 Constantly expanding my technical knowledge through online resources and projects
 - 🤝 Open to collaboration and new opportunities
+## Skills
+- 💻 Front-end: HTML, CSS, JavaScript
+- 🛠️ Back-end: Node.js, Express, MongoDB
+- 🧰 Tools: Git, VSCode
+- 📚 Familiar with: TypeScript
+- 💡 Additional skills: C, C++, Adobe XD, Figma
 ## Connect with Me
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ebenezer-tesfaye-47ab98226/)
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ebenezer-tesfaye-47ab98226/)
