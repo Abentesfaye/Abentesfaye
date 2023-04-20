@@ -14,4 +14,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ebenezer-tesfaye-47ab9
 - 💬 Ask me about my coding journey, projects, or anything else related to web development
 
 Welcome to my GitHub profile! I'm an enthusiastic web developer on a mission to unravel the mysteries of code. Join me as I crack the code conundrum and share my coding adventures. Let's learn, collaborate, and code together! 💪
-[![GitHub commits](https://img.shields.io/github/followers/YourGitHubUsername?style=social)](https://github.com/Abentesfaye)
+## GitHub Stats
+[![Abenezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abentesfaye&count_private=true&show_icons=true&theme=dark)](https://github.com/Abentesfaye)
+
+## Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abentesfaye&layout=compact&theme=dark)](https://github.com/abentesfaye)
+
+[![GitHub commits](https://img.shields.io/github/followers/Abentesfaye?style=social)](https://github.com/Abentesfaye)
