@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm an enthusiastic web developer on a mission to 
 
 ## Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abentesfaye&layout=compact&theme=dark)](https://github.com/abentesfaye)
+![](https://komarev.com/ghpvc/?username=Abentesfaye&color=blue&style=flat-square&label=Profile+Views)
 
 
 
