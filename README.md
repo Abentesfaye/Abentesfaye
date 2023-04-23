@@ -13,6 +13,7 @@ It's Me, Abenezer, the Confused Coder 😅
 - 🛠️ Back-end: Node.js, Express, MongoDB
 - 🧰 Tools: Git, VSCode
 - 📚 Familiar with: TypeScript
+- php:  use php for backend scripting
 - 💡 Additional skills: C, C++, Adobe XD, Figma
 ## Connect with Me
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ebenezer-tesfaye-47ab98226/)
