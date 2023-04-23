@@ -2,6 +2,8 @@
 # Hello, World! 👋
 It's Me, Abenezer, the Confused Coder 😅
  a Passionate Full Stack Web Developer 💻
+ 
+ Welcome to my GitHub profile! I'm an enthusiastic web developer on a mission to unravel the mysteries of code. Join me as I crack the code conundrum and share my coding adventures. Let's learn, collaborate, and code together! 💪
  ## About Me
 - 🔍 Always on a coding adventure, navigating through the challenges
 - 💻 Passionate about Full Stack Web Development
@@ -20,7 +22,6 @@ It's Me, Abenezer, the Confused Coder 😅
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ebenezer-tesfaye-47ab98226/)
 - 💬 Ask me about my coding journey, projects, or anything else related to web development
 
-Welcome to my GitHub profile! I'm an enthusiastic web developer on a mission to unravel the mysteries of code. Join me as I crack the code conundrum and share my coding adventures. Let's learn, collaborate, and code together! 💪
 ## 📈 GitHub Stats
 [![Abenezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abentesfaye&count_private=true&show_icons=true&theme=dark)](https://github.com/Abentesfaye)
 
