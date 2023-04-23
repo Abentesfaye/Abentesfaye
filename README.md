@@ -3,7 +3,7 @@
 It's Me, Abenezer, the Confused Coder 😅
  a Passionate Full Stack Web Developer 💻
  
- Welcome to my GitHub profile! I'm an enthusiastic web developer on a mission to unravel the mysteries of code. Join me as I crack the code conundrum and share my coding adventures. Let's learn, collaborate, and code together! 💪
+Welcome to my GitHub profile! I'm an enthusiastic web developer on a mission to unravel the mysteries of code. Join me as I crack the code conundrum and share my coding adventures. Currently, I am learning software engineering at ALX and computer science at Mettu University. Let's learn, collaborate, and code together!
  ## About Me
 - 🔍 Always on a coding adventure, navigating through the challenges
 - 💻 Passionate about Full Stack Web Development
